@@ -1,0 +1,52 @@
+MailProducts,Mail Class,Revenue,AttributableCost,VVCost,RevenuePP,AttributableCostPP,VVCostPP,ContributionPP,CostCoverage,Pieces,Weight,WeightPP
+Single-Piece Letters,First Class,8285,5273,5095,0.52,0.33,0.32,0.19,1.57,15953934,467047,0.5
+Single-Piece Postcards,First Class,204,187,186,0.36,0.33,0.33,0.03,1.09,563453,3618,0.1
+Presort Letters,First Class,13690,4678,4608,0.39,0.13,0.13,0.26,2.93,35207142,2032376,0.9
+Presort Cards,First Class,503,173,173,0.26,0.09,0.09,0.17,2.9,1923399,15713,0.1
+Flats,First Class,1649,1516,1513,1.27,1.17,1.17,0.1,1.09,1295348,261492,3.2
+Outbound Single-Piece First-Class Mail International,First Class,184,127,126,1.46,1,1,0.46,1.46,126052,7766,1
+Inbound Single-Piece First-Class Mail International,First Class,598,762,760,1.07,1.36,1.36,-0.29,0.78,560457,235897,6.7
+Fees,First Class,105,,,,,,,,,,
+Total First-Class,First Class,25217,12978,12461,0.45,0.23,0.22,0.22,1.94,55629785,3023908,0.9
+High Density and Saturation Letters,Marketing Mail,1196,586,580,0.17,0.08,0.08,0.08,2.04,7253647,292006,0.6
+High Density and Saturation Flats and Parcels,Marketing Mail,2066,1499,1471,0.18,0.13,0.13,0.05,1.38,11606928,2034704,2.8
+Carrier Route,Marketing Mail,1669,1673,1663,0.26,0.26,0.26,0,1,6358867,1304414,3.3
+Letters,Marketing Mail,9713,5124,4996,0.21,0.11,0.11,0.1,1.9,45966176,2242030,0.8
+Flats,Marketing Mail,1561,2307,2300,0.41,0.6,0.6,-0.2,0.68,3818182,961509,4
+Parcels,Marketing Mail,48,85,85,1.31,2.3,2.3,-0.99,0.57,36861,14852,6.4
+Every Door Direct Mail Retail,Marketing Mail,120,46,46,0.18,0.07,0.07,0.11,2.59,649386,82368,2
+Fees,Marketing Mail,35,,,,,,,,,,
+Total USPS Marketing Mail,Marketing Mail,16407,11798,11142,0.22,0.16,0.15,0.06,1.39,75690047,6931881,1.5
+In County,Periodicals,56,96,96,0.11,0.19,0.19,-0.08,0.58,499313,127964,4.1
+Outside County,Periodicals,1132,1769,1764,0.27,0.43,0.43,-0.15,0.64,4135305,1444298,5.6
+Fees,Periodicals,6,,,,,,,,,,
+Total Periodicals,Periodicals,1194,1866,1860,0.26,0.4,0.4,-0.15,0.64,4634618,1572263,5.4
+Alaska Bypass,Package Services,32,20,20,24.91,15.99,15.99,8.93,1.56,1274,85758,1077.2
+Bound Printed Matter Flats,Package Services,191,133,132,0.75,0.52,0.52,0.23,1.43,254368,428698,27
+Bound Printed Matter Parcels,Package Services,314,297,295,1.1,1.04,1.03,0.06,1.06,285933,590904,33.1
+Media and Library Mail,Package Services,284,397,396,3.54,4.96,4.94,-1.41,0.72,80122,174195,34.8
+Fees (note 2),Package Services,1,,,,,,,,,,
+Total Package Services,Package Services,821,848,843,1.32,1.36,1.36,-0.04,0.97,621696,1279555,32.9
+International Negotiated Service Agreements,Other,245,38,38,93.83,14.54,14.52,79.29,6.45,2610,2451,15
+"Free Mail - blind, handicapped & servicemen",Other,,40,40,,1.17,1.17,-1.17,,,,
+Total Market Dominant Mail,Total Maket Dominant Mail,43884,27567,26383,0.32,0.2,0.19,0.12,1.59,136897443,12923826,1.5
+Certified Mail,Ancillary Services,654,478,472,3.5,2.56,2.52,0.94,1.37,186950,,
+COD,Ancillary Services,4,3,3,11.43,6.83,6.83,4.6,1.67,368,,
+Insurance,Ancillary Services,78,42,41,5.41,2.89,2.89,2.52,1.87,14348,,
+Registered Mail,Ancillary Services,24,17,17,16.72,11.59,11.59,5.14,1.44,1447,,
+Stamped Envelopes,Ancillary Services,12,11,11,,,,,,,,
+Stamped Cards,Ancillary Services,1,0,0,,,,,,,,
+Other Domestic Ancillary Services,Ancillary Services,390,247,244,,,,,,,,
+Other Domestic NSA Ancillary Services,Ancillary Services,3,3,3,,,,,,,,
+Total Domestic Ancillary Services,Ancillary Services,1166,800,791,,,,,,5584055,,
+Total International Ancillary Services,Ancillary Services,59,59,59,1.99,1.97,1.97,0.02,1.01,1389,,
+ Address Management Services,Special Services,17,6,0,,,,,,29699,,
+Caller Service,Special Services,89,21,21,,,,,,,,
+Credit Card Authentication,Special Services,18,2,2,,,,,,,,
+Customized Postage,Special Services,0,0,0,,,,,,,,
+Money Orders,Special Services,163,155,150,2.01,1.9,1.85,0.1,1.05,81268,,
+Post Office Box Service,Special Services,294,256,255,,,,,,,,
+Stamp Fulfillment Services,Special Services,4,4,4,,,,,,,,
+Total Special Services,Total Special Services,586,443,434,,,,,,,,
+Total Market Dominant Services,Total Maket Dominant Services,1811,1323,1283,,,,,,,,
+Total Market Dominant Mail and Services,Total Market Dominant Mail and Services,45695,28891,27666,,,,,,5899524,,
